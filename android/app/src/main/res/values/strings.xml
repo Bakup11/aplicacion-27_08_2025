@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name"> Trivia_27_08_2025</string>
-    <string name="title_activity_main"> Trivia_27_08_2025</string>
-    <string name="package_name">com.Trivia.app</string>
-    <string name="custom_url_scheme">com.Trivia.app</string>
-</resources>
